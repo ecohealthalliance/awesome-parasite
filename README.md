@@ -8,6 +8,7 @@ A curated list of amazingly awesome parasite information and open-access databas
  * [Host Pathogen Phylogeny Project (HP3)](https://github.com/ecohealthalliance/HP3) Mammal-virus database
  * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project 
  * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) a database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates
+ * [PEARL](http://pearl.berkeley.edu/) Conservation assessments of macroparasitic invertebrates
  * [Virus-Host Genome Database](http://www.genome.jp/virushostdb/view/)
  * [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) Pulls organism associations from NCBI sequences and PubMed
  * [Arbovirus Catalog (ARBOCAT)](https://wwwn.cdc.gov/arbocat/) CDC-curated arbovirus information including dates of first isolation and wildlife hosts
