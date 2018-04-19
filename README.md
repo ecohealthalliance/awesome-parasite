@@ -9,10 +9,11 @@ A curated list of amazingly awesome parasite information and open-access databas
  * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project 
  * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) a database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates
  * [PEARL](http://pearl.berkeley.edu/) Conservation assessments of macroparasitic invertebrates
- * [Virus-Host Genome Database](http://www.genome.jp/virushostdb/view/)
+ * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) synthesizes host-virus associations from genomes posted in NCBI/RefSeq and GenBank
+ * [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) database of parasitic worms maintained by London Natural History Museum
  * [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) Pulls organism associations from NCBI sequences and PubMed
  * [Arbovirus Catalog (ARBOCAT)](https://wwwn.cdc.gov/arbocat/) CDC-curated arbovirus information including dates of first isolation and wildlife hosts
- * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) Species interaction repository that can be searched by 'parasitize' or 'parasitezed by'
+ * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) Species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
  * [DBatVir](www.mgc.ac.cn/DBatVir) Bat viruses curated from Genbank with host traits
  * [DRodVir](http://www.mgc.ac.cn/DRodVir/) Rodent viruses curated from Genbank with host traits
  
