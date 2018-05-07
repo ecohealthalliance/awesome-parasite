@@ -25,7 +25,7 @@ A curated list of amazingly awesome parasite information and open-access databas
 ## Taxonomy
  * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) 
  * [ICTV](https://talk.ictvonline.org/taxonomy/) Viral taxonomy with excellent archives
- * [IUCN Redlist] provides taxonomic information for hosts. You can use the R package `rredlist` and [API](http://apiv3.iucnredlist.org/api/v3/docs) to access the data directly. 
+ * [IUCN Redlist](http://www.iucnredlist.org/) provides taxonomic information for hosts. You can use the R package `rredlist` and [API](http://apiv3.iucnredlist.org/api/v3/docs) to access the data directly. 
 
 ## Scientific Journals 
  * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) many open-access articles on new parasite expansions or discoveries
