@@ -6,7 +6,7 @@ A curated list of amazingly awesome parasite information and open-access databas
 ## Databases
 
  * [Host Pathogen Phylogeny Project (HP3)](https://github.com/ecohealthalliance/HP3) Mammal-virus database
- * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project 
+ * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project, a global emerging virus surveillance program.  
  * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) a database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates
  * [PEARL](http://pearl.berkeley.edu/) Conservation assessments of macroparasitic invertebrates
  * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) synthesizes host-virus associations from genomes posted in NCBI/RefSeq and GenBank
