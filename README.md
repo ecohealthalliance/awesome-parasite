@@ -5,8 +5,9 @@ A curated list of amazingly awesome parasite information and open-access databas
 
 ## Databases
 
- * [Host Pathogen Phylogeny Project (HP3)](https://github.com/ecohealthalliance/HP3) Mammal-virus database
- * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project, a global emerging virus surveillance program.  
+ * [Olival et al. 2017][Mammal-virus database](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) 
+   with [analysis](https://www.nature.com/articles/nature22975?sf90794030). Ongoing updates are hosted on [github](https://github.com/ecohealthalliance/HP3)
+ * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program.  
  * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) a database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates
  * [PEARL](http://pearl.berkeley.edu/) Conservation assessments of macroparasitic invertebrates
  * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) synthesizes host-virus associations from genomes posted in NCBI/RefSeq and GenBank
@@ -14,12 +15,12 @@ A curated list of amazingly awesome parasite information and open-access databas
  * [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) Pulls organism associations from NCBI sequences and PubMed
  * [Arbovirus Catalog (ARBOCAT)](https://wwwn.cdc.gov/arbocat/) CDC-curated arbovirus information including dates of first isolation and wildlife hosts
  * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) Species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
- * [DBatVir](www.mgc.ac.cn/DBatVir) Bat viruses curated from Genbank with host traits
+ * [DBatVir](www.mgc.ac.cn/DBatVir) Bat viruses curated from Genbank with host traits and summaries by location
  * [DRodVir](http://www.mgc.ac.cn/DRodVir/) Rodent viruses curated from Genbank with host traits
  
 
 ## Reporting Sytems 
- * [WAHIS Interface](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive)
+ * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
  * [ProMed](http://www.promedmail.org/)
 
 ## Taxonomy
