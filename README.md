@@ -5,7 +5,7 @@ A curated list of amazingly awesome parasite information and open-access databas
 
 ## Databases
 
- * [Olival et al. 2017][Mammal-virus database](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) 
+ * Olival et al. 2017 [Mammal-virus database](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) 
    with [analysis](https://www.nature.com/articles/nature22975?sf90794030). Ongoing updates are hosted on [github](https://github.com/ecohealthalliance/HP3)
  * [PREDICT](http://data.predict.global/) Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program.  
  * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) a database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates
