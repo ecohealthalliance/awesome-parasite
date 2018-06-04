@@ -31,6 +31,6 @@ A curated list of amazingly awesome parasite information and open-access databas
 
 ## Scientific Journals 
  * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) many open-access articles on new parasite expansions or discoveries
- * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/) 
+ * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/) AJTMH publishes a broad range of papers covering topics in tropical medicine. Their archive is open-access after a 12-month embargo
  * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) CDC open-access journal
  
