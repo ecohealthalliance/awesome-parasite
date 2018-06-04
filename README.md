@@ -21,7 +21,8 @@ A curated list of amazingly awesome parasite information and open-access databas
 
 ## Reporting Sytems 
  * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
- * [ProMed](http://www.promedmail.org/)
+ * [Healthmap](https://www.healthmap.org/en/) provides infectious disease outbreak alerts for humans and animals.
+ * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) Early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others.
 
 ## Taxonomy
  * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) 
