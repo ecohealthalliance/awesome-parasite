@@ -25,7 +25,7 @@ A curated list of amazingly awesome parasite information and open-access databas
  * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) Early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others.
 
 ## Taxonomy
- * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) 
+ * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases, both parasites and hosts.
  * [ICTV](https://talk.ictvonline.org/taxonomy/) Viral taxonomy with excellent archives
  * [IUCN Redlist](http://www.iucnredlist.org/) provides taxonomic information for hosts. You can use the R package `rredlist` and [API](http://apiv3.iucnredlist.org/api/v3/docs) to access the data directly. 
 
