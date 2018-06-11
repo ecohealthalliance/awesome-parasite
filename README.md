@@ -17,6 +17,7 @@ A curated list of amazingly awesome parasite information and open-access databas
  * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) Species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
  * [DBatVir](www.mgc.ac.cn/DBatVir) Bat viruses curated from Genbank with host traits and summaries by location
  * [DRodVir](http://www.mgc.ac.cn/DRodVir/) Rodent viruses curated from Genbank with host traits
+ * [PHI-base](http://www.phi-base.org/index.jsp) database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Centered on agricultural and medical pathogens of importance. 
  
 
 ## Reporting Sytems 
