@@ -1,5 +1,5 @@
 # Contribution Guidelines
-By participating in this project you agree to abide by the terms of the [awesome](https://github.com/sindresorhus/awesome) [code of conduct](https://github.com/sindresorhus/awesome/blob/master/code-of-conduct.md). These contribution guidelines are adapted from [awesome](https://github.com/sindresorhus/awesome/contributing.md) as well.
+By participating in this project you agree to abide by the terms of the [awesome](https://github.com/sindresorhus/awesome) [code of conduct](https://github.com/sindresorhus/awesome/blob/master/code-of-conduct.md). These contribution guidelines are adapted from [awesome](https://github.com/sindresorhus/awesome/blob/master/contributing.md) as well.
 
 # The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
 
