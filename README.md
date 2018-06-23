@@ -33,7 +33,7 @@ A curated list of amazingly awesome information and open-access databases relate
 ## Taxonomy
  * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) - The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases, both parasites and hosts.
  * [ICTV](https://talk.ictvonline.org/taxonomy/) - The viral taxonomy authority with excellent archives and [open reports](https://talk.ictvonline.org/ictv-reports/).
- * [IUCN Redlist](http://www.iucnredlist.org/) - Online database that provides taxonomic information for wild hosts. You can use the R package `rredlist` and [API](http://apiv3.iucnredlist.org/api/v3/docs) to access the data directly. 
+ * [IUCN Redlist](http://www.iucnredlist.org/) - Online database that provides taxonomic information for wild hosts. You can use the R package `rredlist` and the [API](http://apiv3.iucnredlist.org/api/v3/docs) to access the data directly. 
 
 ## Scientific Journals 
  * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) - JWD provides many open-access articles on new parasite expansions or discoveries.
