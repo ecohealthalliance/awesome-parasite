@@ -2,7 +2,7 @@ awesome - parasite [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 =========
 A curated list of amazingly awesome information and open-access databases related to parasites and host-pathogen interactions. 
 
-- [Awesome Parasite](#awesome-parasite)
+## Contents
     - [Databases](#databases)
     - [Reporting Systems](#reporting-systems)
     - [Taxonomy](#taxonomy)
