@@ -1,6 +1,6 @@
 awesome - parasite [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =========
-A curated list of amazingly awesome parasite information and open-access databases. 
+A curated list of amazingly awesome information and open-access databases related to parasites and host-pathogen interactions. 
 
 
 ## Databases
