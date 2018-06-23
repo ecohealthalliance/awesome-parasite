@@ -7,7 +7,7 @@ A curated list of amazingly awesome information and open-access databases relate
     - [Reporting Systems](#reporting-systems)
     - [Taxonomy](#taxonomy)
     - [Scientific Journals](#scientific-journals)
-
+- - -
 ## Databases
 
  * Olival et al. 2017 - [Mammal-virus database](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) 
