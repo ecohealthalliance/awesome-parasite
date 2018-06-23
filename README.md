@@ -25,7 +25,7 @@ A curated list of amazingly awesome information and open-access databases relate
  * [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance. 
  
 
-## Reporting Sytems 
+## Reporting Systems 
  * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) - The OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
  * [Healthmap](https://www.healthmap.org/en/) - A web platform that provides infectious disease outbreak alerts for humans and animals.
  * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others.
