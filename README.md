@@ -1,6 +1,11 @@
-awesome - parasite [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Parasite [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =========
-A curated list of amazingly awesome information and open-access databases related to parasites and host-pathogen interactions. 
+
+> A curated list of amazingly awesome information and open-access databases related to parasites and host-pathogen interactions. 
+
+Parasites are unique organisms studied in a variety of disciplines due to their health burden, diversity, and complex ecologies. 
+
+Contributions welcome, please read the [contributing guidelines](contributing.md). 
 
 ## Contents
    - [Databases](#databases)
@@ -38,5 +43,6 @@ A curated list of amazingly awesome information and open-access databases relate
  * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/) - AJTMH publishes a broad range of papers covering topics in tropical medicine. Their archive is open-access after a 12-month embargo.
  * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) - The CDC open-access journal.
  
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
