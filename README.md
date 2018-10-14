@@ -5,7 +5,7 @@ Awesome Parasite [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 Parasites are unique organisms studied in a variety of disciplines due to their health burden, diversity, and complex ecologies. 
 
-Contributions welcome, please read the [contributing guidelines](contributing.md). 
+Awesome parasite was created by [Anna Willoughby](arw36.github.io) and is maintained in partnership with [EcoHealth Alliance](www.ecohealthalliance.org). Contributions welcome, please read the [contributing guidelines](contributing.md). 
 
 ## Contents
    - [Databases](#databases)
