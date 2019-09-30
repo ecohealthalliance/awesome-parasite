@@ -19,7 +19,8 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 
  * [Olival et al. 2017](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
  * [PREDICT](http://data.predict.global/) - Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program. This data is downloadable if you have a healthmap account. 
- * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799)- A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
+ * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) - A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
+ * [NCEAS Interaction Web data](https://www.nceas.ucsb.edu/interactionweb/resources.html#host_parasite - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
  * [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
  * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
  * [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms maintained by London Natural History Museum. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helmithR](https://github.com/ropensci/helminthR). 
