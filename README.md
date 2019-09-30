@@ -51,8 +51,8 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
  * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) - The OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
  * [Healthmap](https://www.healthmap.org/en/) - A web platform that provides infectious disease outbreak alerts for humans and animals.
  * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others.
-
-
+ * [WHISPers](https://whispers.usgs.gov/) - Wildlife Health Information Sharing Partnership event reporting system managed by USGS National Wildlife Health Center. Events of North American wildlife mortality (death) and morbidity (illness) involving five or more individuals are reported. 
+ 
 ## Taxonomy
  * [GBIF Backbone Taxonomy](https://www.gbif.org/en/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c) - Aggregation and synonymization of taxonomy for animals, bacteria, protozoa, and viruses that synthesizes 56 taxonomy sources.
  * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) - The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases, both parasites and hosts.
