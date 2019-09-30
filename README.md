@@ -19,6 +19,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 
  * [Olival et al. 2017](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
  * [PREDICT](http://data.predict.global/) - Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program. This data is downloadable if you have a healthmap account. 
+ * [Benesh et al. 2017](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1680) - Extensive database with 8,510 host species associations of parasites with complex life cycles (acanthocephalans, cestodes, and nematodes). Includes life‐history data such as development time and body size for each life cycle stage of the parasites.
  * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) - A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
  * [NCEAS Interaction Web data](https://www.nceas.ucsb.edu/interactionweb/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
  * [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
