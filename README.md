@@ -65,6 +65,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
  * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) - JWD provides many open-access articles on new parasite expansions or discoveries.
  * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/) - AJTMH publishes a broad range of papers covering topics in tropical medicine. Their archive is open-access after a 12-month embargo.
  * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) - The CDC open-access journal.
+ * [EFSA Journal](https://efsa.onlinelibrary.wiley.com/journal/18314732) - Open-access journal of the European Food Safety Authority with yearly reports of food-borne outbreaks and cases of zoonotic agents and antibiotic resistance emergence in humans and animals. 
  
 
 # License
