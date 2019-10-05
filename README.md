@@ -65,6 +65,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [EFSA Journal](https://efsa.onlinelibrary.wiley.com/journal/18314732) - Open-access journal of the European Food Safety Authority with yearly reports of food-borne outbreaks and cases of zoonotic agents and antibiotic resistance emergence in humans and animals. 
 * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) - The CDC open-access journal.
 * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) - JWD provides many open-access articles on new parasite expansions or discoveries.
+* [Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie](https://www.zobodat.at/publikation_series.php?id=1351) - 23 open access volumes (1971-2001) of the scientific journal of the Austrian Society for Tropical Medicine and Parasitology.
 * [Parasitologia Hungarica](http://publication.nhmus.hu/parasitologia/bannales.php?volume=1) - 31 open-access volumes (1960-1998) of Parasitologia Hungarica, a scientific journal hosted by the Hungarian Natural History Museum.
  
 
