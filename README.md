@@ -31,7 +31,8 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
 * [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance. 
 * [PREDICT](http://data.predict.global/) - Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program. This data is downloadable if you have a healthmap account. 
- * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
+* [Shaw et al. 2019](https://figshare.com/articles/The_phylogenetic_range_of_bacterial_and_viral_pathogens_of_vertebrates_dataset_and_supplementary_material/8262779) - A human-curated database of 12,212 host-pathogen associations: 2,595 bacterial and viral pathogens infecting 2,656 vertebrate host species across 90 host orders. It also contains a mitochondrial genome phylogeny for the host species. Currently, [analysis](https://www.biorxiv.org/content/biorxiv/early/2019/06/13/670315.full.pdf) is hosted on BioRxiv.
+* [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
 
 ## Museums & Collections
 * [Biological Collections of Oswaldo Cruz Institute in Rio de Janeiro, Brazil](https://portal.fiocruz.br/en/biological-collections) - scientific institution with the largest [helminth collection](http://chioc.fiocruz.br/catalogue) in Latin America with nearly 40,000 specimens. The institute also houses several other open-access catalogues of [protozoa](http://colprot.fiocruz.br/index?catalogue) and [medically important vector species](http://cavaisc.fiocruz.br/catalogue).
