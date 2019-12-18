@@ -72,6 +72,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [Helminthologia](https://content.sciendo.com/configurable/contentpage/journals$002fhelm$002fhelm-overview.xml) - Open-access scientific journal of the Slovak Academy of Sciences that publishes quarterly since 1959. Articles relate to human, veterinary and plant helminthology.
 * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) - JWD provides many open-access articles on new parasite expansions or discoveries.
 * [Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie](https://www.zobodat.at/publikation_series.php?id=1351) - 23 open access volumes (1971-2001) of the scientific journal of the Austrian Society for Tropical Medicine and Parasitology.
+* [Parasite](https://www.parasite-journal.org/) - Open access journal associated with the Société Française de Parasitologie. Focuses on both animal and human parasites.  
 * [Parasitologia Hungarica](http://publication.nhmus.hu/parasitologia/bannales.php?volume=1) - 31 open-access volumes (1960-1998) of Parasitologia Hungarica, a scientific journal hosted by the Hungarian Natural History Museum.
  
 
